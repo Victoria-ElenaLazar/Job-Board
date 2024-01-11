@@ -13,6 +13,9 @@ use Illuminate\Database\Query\Builder as QueryBuilder;
 class Job extends Model
 {
     use HasFactory;
+    protected $fillable = [
+        'title', 'location', 'salary', 'description', 'experience', 'category'
+    ];
 
     public function employer(): BelongsTo
     {
