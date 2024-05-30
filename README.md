@@ -11,6 +11,7 @@ This Laravel-based Job Board application allows employers to post jobs, manage a
 - [Middleware](#middleware)
 - [Seeder](#seeder)
 - [Usage](#usage)
+- [Project Demo](#project-demo)
 
 
 ### Features
@@ -106,6 +107,13 @@ Follow the link to open the application.
 
 - Follow the installation steps mentioned above.
 - Navigate to the application in your browser at http://localhost:8000.
-- Log in. For the user to be an employer, should register his company in 'My jobs' sections. If the user has not been register with a company,
+- Log in. For the user to be an employer, he should register his company in the 'My jobs' section. If the user has not been registered with a company,
   he will be redirected to the specific form.
 - Explore the available features based on your role.
+
+## Project Demo
+
+
+[Watch the video](public/job-board.mov)
+
+Or [download the video](public/job-board.mov) to watch it.
